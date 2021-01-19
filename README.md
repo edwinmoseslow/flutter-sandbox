@@ -12,6 +12,7 @@
 ## Navigation 
 References :
 ```
+https://blog.usejournal.com/flutter-advance-routing-and-navigator-df0f86f0974f
 https://medium.com/flutter/getting-to-the-bottom-of-navigation-in-flutter-b3e440b9386
 https://medium.com/flutter/learning-flutters-new-navigation-and-routing-system-7c9068155ade
 https://medium.com/better-programming/spotless-routing-and-navigation-in-flutter-995c647b9258
