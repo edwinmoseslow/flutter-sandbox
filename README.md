@@ -10,6 +10,14 @@
 `.Then((value){…})` - is a callback that’s called when future completes successfully(with a value). <br>
 
 ## Navigation 
+References :
+```
+https://medium.com/flutter/getting-to-the-bottom-of-navigation-in-flutter-b3e440b9386
+https://medium.com/flutter/learning-flutters-new-navigation-and-routing-system-7c9068155ade
+https://medium.com/better-programming/spotless-routing-and-navigation-in-flutter-995c647b9258
+
+```
+
 Types of navigation:<br>
 - Direct Navigation with `MaterialPageRoute`
 - Static Navigation with `Route Map`
