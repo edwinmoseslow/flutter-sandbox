@@ -119,3 +119,12 @@ Disadvantage :
 ```
 Losing all types hence there is a need to type check against the type later on.
 ```
+
+### Navigator 2.0
+Page - an immutable object, used to set navigator's history stack<br>
+Router - configures the list of pages to be displayed by the Navigator, changes based of underlying platform or state of app.<br>
+RouteInformationParser - gets `RouteInformation` from `RouteInformationProvider` and Parses it into user-defined data type.<br>
+RouterDelegate - define `Router` behavior of how it learns about change via app state and how to respond to them. Bascailly to listen to `RouteInfromationParser` and app state while building the `Navigator` with the current list of `Pages`.<br>
+BackButtonDispatcher - reports back button presses to the `Router`.
+
+
